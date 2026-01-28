@@ -1,0 +1,25 @@
+{
+  "name": "the-quote-card-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rboswellj/the-quote-card-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rboswellj/the-quote-card-express/issues"
+  },
+  "homepage": "https://github.com/rboswellj/the-quote-card-express#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
